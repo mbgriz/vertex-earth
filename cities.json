@@ -1,0 +1,20 @@
+[
+  {
+    "code": "LAX",
+    "name": "Los Angeles",
+    "latitude": 33.9416,
+    "longitude": -118.4085
+  },
+  {
+    "code": "DFW",
+    "name": "Dallas",
+    "latitude": 32.8998,
+    "longitude": -97.0403
+  },
+  {
+    "code": "MIA",
+    "name": "Miami",
+    "latitude": 25.7959,
+    "longitude": -80.2870
+  }
+]

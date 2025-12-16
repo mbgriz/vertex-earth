@@ -1,6 +1,6 @@
-# Three.js Interactive Vertex Earth
+# Three.js Interactive Vertex Earth (React + TypeScript)
 
-Demonstration of an interactive globe rendered using Three.js, complete with a gradient background and orbit controls. The globe uses custom shaders to apply textures, elevation, and alpha transparency.
+Demonstration of an interactive globe rendered using Three.js, now wrapped in a React 19 + TypeScript app, complete with a gradient background and orbit controls. The globe uses custom shaders to apply textures, elevation, and alpha transparency.
 
 ## Features
 
@@ -37,4 +37,4 @@ Watch the tutorial on [YouTube](https://youtu.be/tBSzJstOGnM)
 
 Notes:
 - `npm start` is an alias for `npm run dev`. Use `npm run build` to create a production bundle and `npm run preview` to serve the built files locally.
-- Modules are resolved by Vite (no import maps needed); assets in `src/` are bundled automatically.
+- Modules are resolved by Vite; assets in `src/` are bundled automatically. React entry point is `src/main.tsx` and the Three.js setup lives in `src/App.tsx`.
